@@ -455,7 +455,7 @@ function Home({ onSelect }) {
           React.createElement(
             'p',
             null,
-            'Taze wafflelar, tatlılar, dondurmalar, atıştırmalıklar, kahveler ve soğuk içecekler. Menü içeriklerini dilediğiniz zaman güncelleyebilirsiniz.',
+            'Taze wafflelar, tatlılar, dondurmalar, atıştırmalıklar, kahveler ve soğuk içecekler.',
           ),
         ),
       ),
